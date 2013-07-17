@@ -14,8 +14,8 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.rubyforge_project = '[none]'
 
-  s.add_dependency 'activerecord', '>= 4.0.0'
-  s.add_dependency 'activemodel', '>= 4.0.0'
+  s.add_dependency 'activerecord', '>= 4.0.0.rc2'
+  s.add_dependency 'activemodel', '>= 4.0.0.rc2'
 
   s.add_dependency 'paper_trail',  '~> 2'
 
